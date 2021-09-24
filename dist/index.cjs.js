@@ -2289,7 +2289,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/epicswap1",
+        href: "https://twitter.com/logitron_office",
     },
     // {
     //   label: "Reddit",
