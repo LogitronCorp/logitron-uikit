@@ -1887,8 +1887,8 @@ var Icon$q = function (props) {
 
 var Logo$1 = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 250 50" }, props),
-        React__default['default'].createElement("image", { width: "50", height: "50", href: isDark ? "/images/logitron/LogoTextNewDark.png" : "/images/logitron/LogoTextNewWhite.png" })));
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
+        React__default['default'].createElement("image", { width: "205", height: "26", href: isDark ? "/images/logitron/LogoTextNewDark.png" : "/images/logitron/LogoTextNewWhite.png" })));
 };
 
 var Icon$p = function (props) {
